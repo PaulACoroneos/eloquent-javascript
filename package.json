@@ -1,0 +1,24 @@
+{
+  "name": "eloquent-javascript",
+  "version": "1.0.0",
+  "description": "repo holding solutions for eloquent JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulACoroneos/eloquent-javascript.git"
+  },
+  "author": "Paul Coroneos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulACoroneos/eloquent-javascript/issues"
+  },
+  "homepage": "https://github.com/PaulACoroneos/eloquent-javascript#readme",
+  "dependencies": {
+    "eslint": "^7.26.0",
+    "jest": "^26.6.3",
+    "typescript": "^4.2.4"
+  }
+}
